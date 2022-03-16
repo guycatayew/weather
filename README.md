@@ -12,6 +12,8 @@
   -  php artisan migrate
   -  php artisan db:seed --class=RoleSeeder
   -  php artisan db:seed --class=UserSeeder
+  -  php artisan db:seed --class=CitySeeder
+
   -  php artisan schedule:work
   -  npm install
 
